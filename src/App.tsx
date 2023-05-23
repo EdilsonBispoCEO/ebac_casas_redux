@@ -5,7 +5,7 @@ import Produtos from './containers/Produtos'
 
 import { GlobalStyle } from './styles'
 
-import { stgit initore } from './store'
+import { store } from './store'
 
 export type Game = {
   id: number
