@@ -8,7 +8,7 @@ const api = createApi({
   }),
   endpoints: (builder) => ({
     getJogos: builder.query<Game[], void>({
-      query: () => 'produtos'
+      query: () => 'ebac_drones_redux'
     })
   })
 })

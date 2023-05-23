@@ -2,48 +2,48 @@
   "produtos": [
     {
       "id": 1,
-      "titulo": "FIFA 23",
-      "plataformas": ["Xbox Series S/X","Windows","PS5"],
-      "precoAntigo": 299,
-      "preco": 190,
-      "categoria": "Esportes",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/yM0eeJui8AFByeP5BC5XV5j9.png?w=440&thumb=false"
+      "titulo": "L900 pro",
+      "plataformas": ["Tec"],
+      "precoAntigo": 550,
+      "preco": 398,
+      "categoria": "Moderado",
+      "imagem": "https://cdn.discordapp.com/attachments/1097545622069989468/1110648428121305128/drone_1.jpg"
     },
     {
       "id": 2,
-      "titulo": "Gotham Knights",
-      "plataformas": ["Xbox Series S/X", "PS5", "Windows"],
-      "precoAntigo": 299,
-      "preco": 150,
-      "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202204/1422/cXffCEiRPrxFapUs6zxJQp1k.png?w=440&thumb=false"
+      "titulo": "L900 pro",
+      "plataformas": ["Tec"],
+      "precoAntigo": 600,
+      "preco": 470,
+      "categoria": "Moderado",
+      "imagem": "https://cdn.discordapp.com/attachments/1097545622069989468/1110656220492202095/drone_2.jpg"
     },
     {
       "id": 3,
-      "titulo": "The Witcher 3",
+      "titulo": "DJI",
       "plataformas": ["Xbox Series S/X", "PS5", "Windows"],
-      "precoAntigo": 349,
-      "preco": 140.90,
-      "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png?w=440&thumb=false"
+      "precoAntigo": 14000,
+      "preco": 13131.44,
+      "categoria": "Profissional",
+      "imagem": "https://cdn.discordapp.com/attachments/1097545622069989468/1110657141154517002/drone_3.jpg"
     },
     {
       "id": 4,
-      "titulo": "Hogwarts Legacy",
-      "plataformas": ["PS5", "Windows"],
+      "titulo": "RC",
+      "plataformas": ["Tec"],
       "precoAntigo": null,
-      "preco": 349.90,
-      "categoria": "Aventura",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0919/JmxLZt6exeqcKRz7BSmK8aId.png?w=440&thumb=false"
+      "preco": 2734.99,
+      "categoria": "Semi Profissional",
+      "imagem": "https://cdn.discordapp.com/attachments/1097545622069989468/1110657647444766792/drone_4.jpg"
     },
     {
       "id": 5,
-      "titulo": "Resident Evil 4",
-      "plataformas": ["PS5"],
+      "titulo": "DJI Mavic Air",
+      "plataformas": ["Tec"],
       "precoAntigo": null,
-      "preco": 349.90,
-      "categoria": "Ação",
-      "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=440&thumb=false"
+      "preco": 6552.55,
+      "categoria": "Profissional",
+      "imagem": "https://cdn.discordapp.com/attachments/1097545622069989468/1110658585710559357/drone_5.jpg"
     }
 
   ]
